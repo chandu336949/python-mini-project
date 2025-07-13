@@ -5,18 +5,22 @@
     },
     {
         "task": "project completion",
-        "completed": false
+        "completed": true
     },
     {
         "task": "notes completion",
-        "completed": false
+        "completed": true
     },
     {
         "task": "water intake",
-        "completed": false
+        "completed": true
     },
     {
         "task": "notes correction",
-        "completed": false
+        "completed": true
+    },
+    {
+        "task": "attend meeting",
+        "completed": true
     }
 ]
