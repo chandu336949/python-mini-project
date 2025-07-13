@@ -1,0 +1,22 @@
+[
+    {
+        "task": "water intake",
+        "completed": true
+    },
+    {
+        "task": "project completion",
+        "completed": false
+    },
+    {
+        "task": "notes completion",
+        "completed": false
+    },
+    {
+        "task": "water intake",
+        "completed": false
+    },
+    {
+        "task": "notes correction",
+        "completed": false
+    }
+]
