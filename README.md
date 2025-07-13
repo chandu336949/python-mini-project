@@ -1,16 +1,17 @@
-# 📝 Python To-Do CLI App
+# 📝 Python CLI To-Do App
 
-A simple command-line To-Do application built using Python.  
-It allows users to add, view, and delete tasks.
+This is a simple command-line To-Do List application built in Python.
 
-## 🚀 Features
-- Add a task
-- View all tasks
-- Delete a task
-- Exit the app
+It allows you to:
+- Add tasks
+- View tasks with status ✅❌
+- Delete tasks
+- Mark tasks as completed
+- Save/load tasks using a JSON file (`tasks.json`)
 
-## 💻 How to Run
+## 🔧 How to Run
 
 ```bash
 python todo.py
+
 
